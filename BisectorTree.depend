@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1574382563 source:c:\bisectortree\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<math.h>
+	<string>
+
+1573466175 c:\bisectortree\resource.h
+
+1573466171 source:c:\bisectortree\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1573466171 source:c:\users\cesar\desktop\bisectortree\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1573466175 c:\users\cesar\desktop\bisectortree\resource.h
+
+1574382563 source:c:\users\cesar\desktop\bisectortree\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<math.h>
+	<string>
+
