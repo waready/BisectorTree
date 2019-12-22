@@ -99,11 +99,11 @@ class Bisector{
                 }
         }
     }
-    MostrarGrafico(HDC hdc)
+     void MostrarGrafico(HDC hdc)
     {
         MosG(hdc,Raiz);
     }
-    MosG(HDC hdc,Nodo *R)
+    void MosG(HDC hdc,Nodo *R)
     {
         if(R!=NULL)
         {
@@ -290,7 +290,7 @@ class Bisector{
         }
         return p;
     }
-    /* Evalua el tamaño de la Recta del Bisector del nuevo nodo insertado, con respecto a sus ancestros.*/
+    /* Evalua el tamaÃ±o de la Recta del Bisector del nuevo nodo insertado, con respecto a sus ancestros.*/
     void evaluar(Nodo*V,Nodo*W){
             punto medi;
             punto p1;
